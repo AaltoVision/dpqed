@@ -27,7 +27,7 @@ We demonstrate that .
 # Citation
 If you find our code or paper useful, please cite
 ```bibtex
-@In{Laskar2024dpqed,
+@inproceedings{Laskar2024dpqed,
   author    = {Laskar, Zakaria and Melekhov, Iaroslav and Benbihi, Assia and Wang, Shuzhe and Kannala, Juho},
   title     = {Differentiable Product Quantization for Memory Efficient Camera Relocalization},
   journal   = {European Conference on Computer Vision (ECCV)},
