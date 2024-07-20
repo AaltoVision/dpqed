@@ -13,6 +13,7 @@
     <a href="https://users.aalto.fi/~kannalj1/">Juho Kannala</a>
 
   </p>
+  <h4 align="center">*equal contribution</h4>
   <h2 align="center">ECCV 2024</h2>
   <h3 align="center"><a href="">Paper</a> | <a href="">Project Page</a> </h3>
   <div align="center"></div>
