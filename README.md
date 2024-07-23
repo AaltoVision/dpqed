@@ -24,6 +24,7 @@ We demonstrate that .
 </p>
 <br>
 
+
 # Citation
 If you find our code or paper useful, please cite
 ```bibtex
@@ -34,3 +35,6 @@ If you find our code or paper useful, please cite
   year      = {2024},
 }
 ```
+
+### Acknowledgements
+The Readme template was mainly inspired by the [MonoSDF](https://github.com/autonomousvision/monosdf) repository.
