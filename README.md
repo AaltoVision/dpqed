@@ -20,7 +20,7 @@
 
 
 <p align="center">
-We demonstrate that . 
+We propose a hybrid scene compression method, D-PQED, which performs descriptor quantization-dequantization in an end-to-end differentiable manner. This approach is well-suited for structure-based localization methods, enabling accurate camera pose prediction under a very limited memory budget.
 </p>
 <br>
 
