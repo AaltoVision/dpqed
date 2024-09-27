@@ -14,7 +14,7 @@
 
   </p>
   <h2 align="center">ECCV 2024</h2>
-  <h3 align="center"><a href="https://arxiv.org/abs/2407.15540v1">Paper</a> | <a href="">Project Page</a> </h3>
+  <h3 align="center"><a href="https://arxiv.org/abs/2407.15540v1">Paper</a> | <a href=""https://imelekhov.com/dpqed/>Project Page</a> </h3>
   <div align="center"></div>
 </p>
 
